@@ -1,0 +1,26 @@
+{
+  "name": "internshala_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Swagachuu/Internshala_Scraper.git"
+  },
+  "author": "Mehul Chaturvedi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Swagachuu/Internshala_Scraper/issues"
+  },
+  "homepage": "https://github.com/Swagachuu/Internshala_Scraper.git#readme",
+  "dependencies": {
+    "json2csv": "^5.0.1",
+    "ora": "^4.0.4",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5",
+    "tough-cookie": "^4.0.0"
+  }
+}
