@@ -61,4 +61,4 @@ Install them and then move to the next step.
 
 ## Acknowledgments
 
-I tried to make this README as detailed as possible. If you have any queries or suggestions you can E-mail me at `tanmay18a@iitg.ac.in` or `tanmayjain1999@gmail.com`.
+I tried to make this README as detailed as possible. If you have any queries or suggestions you can E-mail me at `hasan@iitg.ac.in` or `kashanh15@gmail.com`.
