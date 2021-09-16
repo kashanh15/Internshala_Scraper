@@ -57,7 +57,7 @@ Install them and then move to the next step.
 
 ## Authors
 
-- **[Swagachu](https://github.com/Swagachuu)**
+- **[Kashan](https://github.com/kashanh15)**
 
 ## Acknowledgments
 
